@@ -144,7 +144,7 @@ $GLOBALS['SiteConfiguration']['site_language']['columns']['solr_core_read'] = [
                 [ 'Irish', 'core_ie'],
                 [ 'Italian', 'core_it'],
                 [ 'Japanese', 'core_ja'],
-                [ 'Korean', 'core_km'],
+                [ 'Korean', 'core_ko'],
                 [ 'Lao', 'core_lo'],
                 [ 'Latvia', 'core_lv'],
                 [ 'Norwegian', 'core_no'],
